@@ -1,0 +1,12 @@
+{
+    "name": "InputSys",
+    "maps": [
+        {
+            "name": "AcMap1",
+            "id": "fd4cc87b-00e3-4871-8276-0f48236e63d6",
+            "actions": [],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
